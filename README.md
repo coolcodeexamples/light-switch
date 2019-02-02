@@ -1,23 +1,13 @@
 # light-switch
 
-![unstable][unstable-image]
-[![NPM version][npm-image]][npm-url]
-[![NPM downloads][downloads-image]][downloads-url]
-
-[![Circle CI][circleci-image]][circleci-url]
-[![Travis CI][travis-image]][travis-url]
-[![Codecov][codecov-image]][codecov-url]
-[![Coveralls Status][coveralls-image]][coveralls-url]
-
-[![Greenkeeper][greenkeeper-image]][greenkeeper-url]
-[![Semantic Release][semantic-release-image]][semantic-release-url]
-
 [![Visual Studio Code][vscode-image]][vscode-url]
 [![Wallaby.js][wallaby-image]][wallaby-url]
 
 This is a training repository for TypeScript
 
 The objective is to implment a light switch.
+
+The use cases are described in the `src/index.spec.ts`
 
 ## Contribute
 
