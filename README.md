@@ -3,11 +3,9 @@
 [![Visual Studio Code][vscode-image]][vscode-url]
 [![Wallaby.js][wallaby-image]][wallaby-url]
 
-This is a training repository for TypeScript
+This is a training repository.
 
 The objective is to implment a light switch.
-
-The use cases are described in the `src/index.spec.ts`
 
 ## Contribute
 
